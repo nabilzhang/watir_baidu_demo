@@ -2,6 +2,7 @@ watir_baidu_demo
 ================
 This is a very simple watir page object web application framework.
 
+##以下为使用说明
 ###1. 下载ruby 1.9.1
 
 http://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.9.3-p551.exe?direct
@@ -42,7 +43,7 @@ rspec starter.rb
 ```
 
 执行结果
-![Alt text](./BaiduHi_2014-12-31_11-12-18.png)
+![Alt text](http://ww2.sinaimg.cn/large/005yyi5Jjw1ensp3l64q8j30hp09xtaa.jpg)
 
 
 ###附：参考书籍
